@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+geo_data/tl_2021_us_county/tl_2021_us_county.shp
+geo_data/tl_2021_us_zcta520/tl_2021_us_zcta520.shp
